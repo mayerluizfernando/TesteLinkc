@@ -1,0 +1,8 @@
+cInOut = 359, 135, 1298, 495, 
+cListaInOut = 183, 132, 1122, 492, 
+cCarro = 104, 104, 1069, 383, 
+cListaCarro = 93, 60, 1058, 339, C
+cSelfTimer = 104, 104, 1069, 383, 
+cEstacionamento = 0, 0, 866, 378, C
+Global = 104, 104, 1063, 417, 
+frmMain = 104, 104, 996, 417, , 52, 52, 944, 365, C

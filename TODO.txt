@@ -1,0 +1,15 @@
+ESPECIFICAÇÃO 
+	(✓)1. Usuário define quantidade de entradas e saídas. 
+	(✓)2. Sistema define tempo aleatório, entre 1 e 5 segundos, para um veículo iniciar processo de entrada no estacionamento. 
+	(✓)3. Sistema define tempo aleatório, entre 10 e 30 segundos, para um veículo iniciar processo de saída do estacionamento. 
+	(✓)4. Sistema define tempo aleatório, entre 3 e 5 segundos, para um veículo concluir o processo de entrada ou saída do estacionamento. 
+	(✓)5. Sempre que um veículo for entrar ou sair do estacionamento, caso as entradas ou saídas estejam ocupadas, processando uma entrada ou 
+	uma saída do estacionamento, o veículo que for entrar ou sair deverá seguir para a fila. Assim que uma entrada ou saída completar o processo, 
+	um veículo que está na fila deverá iniciar um novo processo de entrada ou saída.
+	
+Na interface do usuário, as seguintes informações deverão ser apresentadas: 
+	(✓)1. Quantidade de entradas e saídas definidas pelo usuário. 
+	(✓)2. Quantidade de veículos na fila de entrada. 
+	(✓)3. Quantidade de veículos na fila de saída. 
+	(✓)4. Quantidade de veículos que passaram por cada entrada e saída. 
+	(✓)5. Quantidade de veículos dentro do estacionamento.
